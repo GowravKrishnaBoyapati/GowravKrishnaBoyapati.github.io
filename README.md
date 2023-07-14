@@ -1,34 +1,31 @@
-# PortfolioV2
+# Gowrav Chowdary's Portfolio ✨🎉
 
-## Dark Mode
+## Dark Mode 🖤
 ![PortfolioV2](/images/dark.png)
 
-## Light Mode
+## Light Mode 🤍
 ![PortfolioV2](/images/light.png)
 
-### A clean portfolio template. (Readme will be updated soon)
-
-# Sections
+# Sections 
 
 - Home
 - Education and Certificates
-- Experience
 - Projects
 - Contact and Resume
 
-# How To Use
+# How To Use 🤞
 
 - Clone this repository (or fork, then clone your fork :) )
 - Run `npm i`
 - Check it out using `npm start`
 
-# How Do I Customize
+# How Do I Customize 💄
 
 - Replace `homepage` in package.json to your domain name or `https://<username>.github.io`
 - In `src/portfolio.js` you can add your personal portfolio details.
 - In `src/theme.js` you can change the theme colors. You can change between Light and Dark theme with the theme switch on the header.
 
-# How to Deploy
+# How to Deploy 🤳
 
 - Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
 - I highly recommend using [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this the EASIEST WAY.
