@@ -1,6 +1,10 @@
 # PortfolioV2
 
-![PortfolioV2](/images/portfolio1.gif)
+## Dark Mode
+![PortfolioV2](/images/dark.png)
+
+## Light Mode
+![PortfolioV2](/images/light.png)
 
 ### A clean portfolio template. (Readme will be updated soon)
 
