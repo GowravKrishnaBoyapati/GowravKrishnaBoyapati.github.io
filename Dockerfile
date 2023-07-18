@@ -8,10 +8,7 @@ COPY package*.json ./
 RUN npm install
 # Copy the rest of the application code to the container
 COPY . .
-# Build the production version of the application
-RUN npm run build
 # Expose port 80 to the outside world
-EXPOSE 80
+EXPOSE 3000
 # Run the command to start the server
 CMD ["npm", "start"]
-

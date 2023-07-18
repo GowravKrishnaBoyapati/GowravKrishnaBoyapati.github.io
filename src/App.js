@@ -6,7 +6,7 @@ import { themes } from "./theme";
 import { GlobalStyles } from "./global";
 import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
-import ReactGA from "react-ga";
+import ReactGA from "react-ga"; 
 
 function App() {
   useEffect(() => {
